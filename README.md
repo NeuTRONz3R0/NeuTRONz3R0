@@ -9,7 +9,10 @@
 
 - 💬 Open to- **Work on ML projects.**
 
+- ⚙️ Google Cloud- https://www.cloudskillsboost.google/public_profiles/2988a869-7fa1-4b36-bf8c-62fc129002f1
+
 - ⚡ Fun fact **Getting inspired by other's wit compelled you to question your own potentials- by UjjwalDeep**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
