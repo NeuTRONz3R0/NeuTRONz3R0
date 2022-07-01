@@ -1,5 +1,5 @@
 ![MasterHead](https://lh3.googleusercontent.com/JTRRDx7Yj6rGeEj9KxJP6O17csMkuIe_LdUlCQ8QfmhWQSuMEjVZ3L4C4i3be8ahAIWfXWkBnRQEIXcoDRePfUyG8ewSlO8K4ibZji0lIV8g-iPqLQYJ1bcJ6uEQsGTT69YTH5sf=w2400)
-<h1 align="center">Hey😄👋 this is Ujjwal Deep</h1>
+<h1 align="center">Hey🧑‍💻👋 this is Ujjwal Deep</h1>
 <h3 align="center">I'm a Prospering Computer Science Engineering🧑‍💻 Student.</h3>
 <img align="right" alt="Coding" width="480" height= "360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
